@@ -2,7 +2,7 @@ from turtle import *
 import colorsys
 speed(0)
 hideturtle()
-bgcolor('black')
+bgcolor('black') # The color of this background is black
 tracer(5)
 width(2)
 h = 0.001
